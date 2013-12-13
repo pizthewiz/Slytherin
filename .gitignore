@@ -1,0 +1,15 @@
+.DS_Store
+
+node_modules
+
+# ignore user-specific Xcode 4 project settings
+xcuserdata/
+# except defaults they are created from
+!xcuserdata/default.*
+
+# builds
+xcode/build
+
+# ignore auto-generated build versioning config
+/Configurations/BuildVersion.xcconfig
+
